@@ -1,0 +1,13 @@
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div.box {
+  border: 1px solid blue;
+  padding: 5px;
+  margin: 5px;
+}
+
+h1 {
+  text-align: center;
+}
